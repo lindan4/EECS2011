@@ -1,0 +1,14 @@
+import java.util.Scanner;
+import java.io.PrintStream;
+
+
+public static void insertionSort(char[] letters)
+{
+}
+
+
+public static void main(String[] args)
+{
+	Scanner input = new Scanner(System.in);
+	PrintStream output = new PrintStream(System.out);
+}

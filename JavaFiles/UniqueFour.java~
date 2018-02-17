@@ -1,0 +1,32 @@
+import java.util.Scanner;
+import java.io.PrintStream;
+
+public class UniqueFour
+{
+	public static boolean isUnique(int[] a, int start, int finish)
+	{
+		//How do you see yourself doing this?
+		//{3, 8, 4, 5, 6, 4}
+		//{3, 8}, {3, 4}, {3, 5}
+		if (a.length == 1)
+		{
+			return true;
+		}
+		else if (a.length == 2)
+		{
+			return !(a[0] == a[1]);
+		}
+		else
+		{
+			//Split array into n / 2 problems
+		}
+	}
+	
+	public static void main(String[] args)
+	{
+		Scanner input = new Scanner(System.in);
+		PrintStream output = new PrintStream(System.out);
+		
+		
+	}
+}
