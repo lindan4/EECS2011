@@ -1,1 +1,1 @@
-Repository is made up of Java files created for practice.
+Fundementals of Data Structures (Winter 2017) course work.
